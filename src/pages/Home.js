@@ -11,9 +11,12 @@ export default function Home() {
 return(
 <div>
     <Navbar/>
-    <ImageCarousel img1={ImageOne} img2={ImageTwo} img3={ImageThree} img4={ImageFour}/>
+    <div className="center">
+        <ImageCarousel img1={ImageOne} img2={ImageTwo} img3={ImageThree} img4={ImageFour}/>
+    </div>
     <div className="home-wrapper">
-        <h2>Almost... what?</h2>
+        <h1>almost... what?</h1>
+        <p className="about">We're almost old, almost good, and <i>almost</i> a band, but one thing that is certain is our love of rock n' roll. We are a cover band from Bend, Oregon playing your favorite songs from the 60s-90s and beyond!</p>
     </div>
 
 </div>

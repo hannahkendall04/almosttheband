@@ -1,11 +1,43 @@
 .card-wrapper {
     display: flex;
     flex-direction: row;
-
+    justify-content: center;
+    flex-wrap: wrap;
 }
+
 
 .home-wrapper {
     display: flex;
     max-width: 100%;
     justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size:x-large;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.center {
+    display:flex;
+    justify-content: center;
+}
+
+.about {
+    margin: 4%;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    text-align:justify;
+}
+
+.imageBox {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.imageBox img {
+max-width: 70%;
+margin-top: 3%;
 }

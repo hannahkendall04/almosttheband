@@ -4,13 +4,14 @@
 
 .carousels {
     max-width: 100%;
-    height: 50vw;
     display: flex;
-    align-items: center;
+    margin-left:auto;
+    margin-right: auto;
     margin-top: 0;
     margin-bottom: 5vw;
 }
 
 .carousels img {
-    max-width: 100%;
+    width: 100vw;
 }
+
