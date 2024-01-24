@@ -7,11 +7,11 @@ function NavBar() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">Almost - The Band</Navbar.Brand>
+          <Navbar.Brand href="/">Almost - The Band</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="#home">Gallery</Nav.Link>
-            <Nav.Link href="#features">About</Nav.Link>
-            <Nav.Link href="#pricing">Contact</Nav.Link>
+            <Nav.Link href="/gallery">Gallery</Nav.Link>
+            <Nav.Link href="/about">About</Nav.Link>
+            <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>
         </Container>
       </Navbar>

@@ -1,6 +1,16 @@
-.wrapper {
-    display: flex;
+.card {
+    margin: 2%;
+}
+
+.carousels {
     max-width: 100%;
-    justify-content: center;
-    background-color: bisque;
+    height: 50vw;
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 5vw;
+}
+
+.carousels img {
+    max-width: 100%;
 }

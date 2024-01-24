@@ -1,0 +1,11 @@
+.card-wrapper {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.home-wrapper {
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+}
