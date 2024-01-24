@@ -7,6 +7,7 @@ import ImageTwo from '../images/pic1.jpg'
 import ImageThree from '../images/pic2.jpg'
 import ImageFour from '../images/pic3.jpg'
 import UpdateCard from '../components/UpdateCard.js'
+import HomeCard from '../components/HomeCard.js'
 
 export default function Home() {
 return(
@@ -16,11 +17,11 @@ return(
         <ImageCarousel img1={ImageOne} img2={ImageTwo} img3={ImageThree} img4={ImageFour}/>
     </div>
     <div className="home-wrapper">
-        <h1>almost... what?</h1>
+        <h1>Almost... what?</h1>
         <p className="about">We're almost old, almost good, and <i>almost</i> a band, but one thing that is certain is our love of rock n' roll. We are a cover band from Bend, Oregon playing your favorite songs from the 60s-90s and beyond!</p>
     </div>
     <div className="center">
-    <UpdateCard/>
+        <HomeCard/>
     </div>
 </div>
 );

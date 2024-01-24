@@ -3,7 +3,12 @@ import Navbar from '../components/Navbar.js'
 import Card from '../components/Card.js'
 import './pages.css'
 import band from '../images/band.jpg'
-import kyle from '../images/dad.jpg'
+import kyle from '../images/kyle.jpg'
+import dave from '../images/dave.jpg'
+import ross from '../images/ross.jpg'
+import terry from '../images/terry.jpg'
+import john from '../images/john.jpg'
+
 
 function About() {
     return(
@@ -25,11 +30,11 @@ function About() {
             <p>Check out our <a href="https://www.facebook.com/people/Almost-the-band/100092164110754/" >Facebook page</a> for more info. </p>
         </div>
         <div className="card-wrapper">
-        <Card name="Terry Belunes" role="Guitar"/>
-        <Card name="Ross Chambers" role="Drums"/>
+        <Card image={terry} name="Terry Belunes" role="Guitar"/>
+        <Card image={ross} name="Ross Chambers" role="Drums"/>
         <Card image={kyle} name="Kyle Kendall" role="Bass"/>
-        <Card name="Dave LiaBraten" role="Lead Singer"/>
-        <Card name="John Sorlie" role="Guitar"/>
+        <Card image={dave} name="Dave LiaBraten" role="Lead Singer"/>
+        <Card image={john} name="John Sorlie" role="Guitar"/>
         </div>
     </div>
     );
