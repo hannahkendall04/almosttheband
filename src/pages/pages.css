@@ -43,3 +43,8 @@
 max-width: 70%;
 margin-top: 3%;
 }
+
+link {
+    text-decoration: none;
+    color:red;
+  }
