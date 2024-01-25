@@ -5,7 +5,7 @@ import './pages.css'
 import ImageTwo from '../images/pic1.jpg'
 import ImageThree from '../images/pic2.jpg'
 import ImageFour from '../images/pic3.jpg'
-import UpdateCard from '../components/UpdateCard.js'
+//import UpdateCard from '../components/UpdateCard.js'
 import HomeCard from '../components/HomeCard.js'
 
 export default function Home() {
