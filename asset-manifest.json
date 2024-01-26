@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/almosttheband/static/css/main.36cca5de.css",
-    "main.js": "/almosttheband/static/js/main.f93c41da.js",
+    "main.js": "/almosttheband/static/js/main.bc6b6be9.js",
     "static/js/787.04d5d96d.chunk.js": "/almosttheband/static/js/787.04d5d96d.chunk.js",
     "static/media/ross.jpg": "/almosttheband/static/media/ross.95dd49aab2025a1e1e22.jpg",
     "static/media/john.jpg": "/almosttheband/static/media/john.fe7eacbcaa6be98727f8.jpg",
@@ -14,11 +14,11 @@
     "static/media/pic3.jpg": "/almosttheband/static/media/pic3.47ae5d590c92b20a1be9.jpg",
     "index.html": "/almosttheband/index.html",
     "main.36cca5de.css.map": "/almosttheband/static/css/main.36cca5de.css.map",
-    "main.f93c41da.js.map": "/almosttheband/static/js/main.f93c41da.js.map",
+    "main.bc6b6be9.js.map": "/almosttheband/static/js/main.bc6b6be9.js.map",
     "787.04d5d96d.chunk.js.map": "/almosttheband/static/js/787.04d5d96d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36cca5de.css",
-    "static/js/main.f93c41da.js"
+    "static/js/main.bc6b6be9.js"
   ]
 }
