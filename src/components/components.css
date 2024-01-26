@@ -1,5 +1,5 @@
 .card {
-    margin: 2%;
+    margin: 4%;
 }
 
 .carousels {
@@ -15,6 +15,3 @@
     width: 100vw;
 }
 
-.homeCard {
-    max-width: 80vw;
-}

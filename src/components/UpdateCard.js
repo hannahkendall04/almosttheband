@@ -1,10 +1,9 @@
 import Card from 'react-bootstrap/Card';
-import './components.css'
 
 function UpdateCard() {
   return (
-    <div className="homeCard">
-      <Card border="dark" style={{ width: '45rem' }}>
+    <div>
+      <Card border="dark" style={{ width: '90vm' }}>
         <Card.Header>Updates</Card.Header>
         <Card.Body>
           <Card.Title>Upcoming Shows: DATE</Card.Title>
