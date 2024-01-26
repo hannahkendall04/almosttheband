@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/almosttheband/static/css/main.a6d4b41e.css",
+    "main.css": "/almosttheband/static/css/main.fae51d9e.css",
     "main.js": "/almosttheband/static/js/main.90e3b2be.js",
     "static/js/787.04d5d96d.chunk.js": "/almosttheband/static/js/787.04d5d96d.chunk.js",
     "static/media/ross.jpg": "/almosttheband/static/media/ross.95dd49aab2025a1e1e22.jpg",
@@ -13,12 +13,12 @@
     "static/media/pic1.jpg": "/almosttheband/static/media/pic1.7ad235946ebbcdfae998.jpg",
     "static/media/pic3.jpg": "/almosttheband/static/media/pic3.47ae5d590c92b20a1be9.jpg",
     "index.html": "/almosttheband/index.html",
-    "main.a6d4b41e.css.map": "/almosttheband/static/css/main.a6d4b41e.css.map",
+    "main.fae51d9e.css.map": "/almosttheband/static/css/main.fae51d9e.css.map",
     "main.90e3b2be.js.map": "/almosttheband/static/js/main.90e3b2be.js.map",
     "787.04d5d96d.chunk.js.map": "/almosttheband/static/js/787.04d5d96d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6d4b41e.css",
+    "static/css/main.fae51d9e.css",
     "static/js/main.90e3b2be.js"
   ]
 }
